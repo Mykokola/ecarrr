@@ -14,5 +14,5 @@ export default defineConfig({
       src: '/src',
     },
   },
-  base: '/ecarr/',
+  base: '/ecarrr/',
 });
